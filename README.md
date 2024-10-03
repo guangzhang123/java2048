@@ -1,1 +1,1 @@
-#This is a simple java2048 project.
+# This is a simple java2048 project.
